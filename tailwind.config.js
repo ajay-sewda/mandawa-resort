@@ -14,6 +14,9 @@ module.exports = {
       },
       colors:{
         accent:"#477253"
+      },
+      container: {
+        center: true,
       }
     },
   },
